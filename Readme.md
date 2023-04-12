@@ -19,6 +19,7 @@ Estuve utilizamos algunas herramientas como:
 4. **Worker**Añade nuevo dato a el contenedor, almacenando los servicios por separados. 
 
 ## Prueba de funcionamiento :
+https://docs.google.com/presentation/d/1Ez1PS6ECgvDBrsugG5t7Ij7_3iBs2oYL/edit?usp=sharing&ouid=108900922926885651513&rtpof=true&sd=true
 
 ## Posibles mejoras :
 - El diseño no es muy llamativo que diamos
